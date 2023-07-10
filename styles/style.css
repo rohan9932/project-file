@@ -149,3 +149,16 @@ header {
     font-weight: 800;
     line-height: normal;
 }
+
+/* Instagram styles */
+.instagram {
+    margin-top: 128px;
+}
+
+.insta-images-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    align-items: center;
+    padding: 0 240px;
+}
