@@ -162,3 +162,38 @@ header {
     align-items: center;
     padding: 0 240px;
 }
+
+/* latest details style */
+.latest-details {
+    margin-top: 128px;
+    background-image: url('../images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.division {
+    padding: 123px;
+}
+.latest-details-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 0 527px;
+}
+
+.email {
+    display: block;
+    padding: 18px 35px;
+    border: 0;
+    border-radius: 5px;
+    width: 80%;
+}
